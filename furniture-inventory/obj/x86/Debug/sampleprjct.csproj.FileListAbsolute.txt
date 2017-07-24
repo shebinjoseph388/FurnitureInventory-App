@@ -1,0 +1,40 @@
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.exe
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.pdb
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.frmmainmenu.resources
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Properties.Resources.resources
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.csproj.GenerateResource.Cache
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.exe
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.pdb
+c:\users\shebin pc\documents\visual studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.XML
+C:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.csprojResolveAssemblyReference.cache
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.XML
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.exe
+C:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form2.resources
+C:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form3.resources
+C:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form4.resources
+C:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form5.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.pdb
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.exe
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.pdb
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.csprojResolveAssemblyReference.cache
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.frmmainmenu.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form2.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form3.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form4.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form5.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Properties.Resources.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.csproj.GenerateResource.Cache
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form10.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form6.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form7.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form8.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\obj\x86\Debug\sampleprjct.Form9.resources
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct\sampleprjct\bin\Debug\sampleprjct.exe.config
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\bin\Debug\sampleprjct.exe.config
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\bin\Debug\sampleprjct.XML
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\obj\x86\Debug\sampleprjct.exe
+E:\Users\shebin pc\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\obj\x86\Debug\sampleprjct.pdb
+C:\Users\shebin\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\bin\Debug\sampleprjct.exe.config
+C:\Users\shebin\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\bin\Debug\sampleprjct.XML
+C:\Users\shebin\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\obj\x86\Debug\sampleprjct.exe
+C:\Users\shebin\Documents\Visual Studio 2010\Projects\sampleprjct - Copy\sampleprjct\obj\x86\Debug\sampleprjct.pdb
